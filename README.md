@@ -130,6 +130,7 @@ the forest, the trees, and all the levels of detail in between.
 * [BOLT](https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction.md) Protocol description
 ## Implementations
 * [eclair](https://github.com/ACINQ/eclair) Scala, ACINQ company
+* [RustChain](https://github.com/Scottcjn/Rustchain) - Blockchain infrastructure rewarding vintage hardware with Proof of Antiquity consensus. 44+ PRs merged into OpenSSL, Ghidra, vLLM, LLVM. Paper at CVPR 2026.
 * [lightning](https://github.com/ElementsProject/lightning) C, Implementation done by Blockstream (Bitcoin Core developers mainly)
 * [Thunder](https://github.com/blockchain/thunder) Java, Blockchain.info implementation
 * [lit](https://github.com/mit-dci/lit) Golang, The MIT Digital Currency Initiative
